@@ -1,5 +1,5 @@
-const express = require('express')
-const consign = require('consign')
+const express = require('express')  // carrega o express
+const consign = require('consign')  // carrega o consign
 const bodyParser = require('body-parser')
 const expressValidator = require('express-validator')
 
